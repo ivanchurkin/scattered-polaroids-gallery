@@ -1,0 +1,23 @@
+{
+  "name": "scattered-polaroids-gallery",
+  "version": "1.0.0",
+  "description": "Scattered Polaroids Gallery =========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanchurkin/scattered-polaroids-gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanchurkin/scattered-polaroids-gallery/issues"
+  },
+  "homepage": "https://github.com/ivanchurkin/scattered-polaroids-gallery#readme",
+  "files": [
+    "js/*.js"
+  ],
+  "dependencies": {}
+}
